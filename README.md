@@ -122,5 +122,5 @@ Le tableau de bord développé sous Power BI regroupe 9 indicateurs clés calcul
 
 ## Auteur
 
-Projet réalisé dans le cadre du cours de Visualisation de Données — L3 SEA.
+DABIRE Joël, Etudiant BUT 3 science de données parcours exploration et modélisation statistique
 
